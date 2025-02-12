@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 //@ts-nocheck
-import { Button } from "@/app/_components/ui/button";
+import { Button } from "@/components/ui/button";
 import { useState } from "react";
 
 function SessionStopped({ startSession }: { startSession: any }) {
